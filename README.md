@@ -11,3 +11,5 @@ This code was written, tested, and can be run in Matlab. When running the code, 
 * <i>em.m</i>            - Run Gaussian Naive-Bayes method of clustering
 * <i>kmeans.m</i>        - Run K-Means method of clustering
 * <i>fcondjoin.m</i>     - Function to find the conditional probability of two x values
+
+There was also an extra credit portion in the assignment to classify emails into spam and ham (based on the provided data files: (<i>spambase_train.dat</i> and <i>spambase_test.dat</i>). This is currently not completed, but I may do it in the future.
