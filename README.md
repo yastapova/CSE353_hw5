@@ -10,4 +10,4 @@ This code was written, tested, and can be run in Matlab. When running the code, 
 * <i>hw5_report.pdf</i>  - Written report of results
 * <i>em.m</i>            - Run Gaussian Naive-Bayes method of clustering
 * <i>kmeans.m</i>        - Run K-Means method of clustering
-* <i>fcondjoin.m</i>     - Function to find the conditional probability of two x
+* <i>fcondjoin.m</i>     - Function to find the conditional probability of two x values
