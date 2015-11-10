@@ -5,7 +5,7 @@ In this homework assignment, a data file was provided that contained "noisy two-
 
 This code was written, tested, and can be run in Matlab. When running the code, kmeans.m should be run after em.m because it makes use of variables saved in the workspace after em.m is finished running.
 
-* <i>pgm_hw4.pdf</i>     - Homework assignment and directions
+* <i>pgm_hw5.pdf</i>     - Homework assignment and directions
 * <i>robloc.dat</i>      - Provided data file
 * <i>hw5_report.pdf</i>  - Written report of results
 * <i>em.m</i>            - Run Gaussian Naive-Bayes method of clustering
